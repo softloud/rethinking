@@ -1,0 +1,14 @@
+---
+title: "chapter four"
+description: |
+  notes and exercises
+date: "`r Sys.Date()`"
+output: radix::radix_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# exercises
+
